@@ -1,2 +1,0 @@
-# Guess-Game
-Guess Game
